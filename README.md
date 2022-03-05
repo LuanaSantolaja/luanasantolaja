@@ -1,11 +1,12 @@
-
 Olá! Eu sou a Luana Santolaja 👋🏻
 - 📚 Estudante de Tecnologia na Faculdade de Tecnologia de Mauá (FATEC)
+- 🎓 Classificação: Gestão em Tecnologia da Informação /TI
 - 🙋🏻‍♀️ 23 anos
-- ⚡ Front-End ; Programação Web
+- 🗨️ Espanhol Intermediário, Inglês Básico
+- 👩🏻‍💻 Pacote Office Intermediário
+- ⚡ Front-end; Programação Web
 
-
- ##
+ #
  
  <meta charset="UTF-8">
 <div align="center">
@@ -30,5 +31,4 @@ Olá! Eu sou a Luana Santolaja 👋🏻
 <a href="https://br.linkedin.com/in/luana-santolaja-170a3a165" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="__blank"></a>
 <a href="https://api.whatsapp.com/send?phone=5511951498299&text=Ol%C3%A1%2C%20acessei%20seu%20n%C3%BAmero%20pelo%20GitHub%20%3A" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="__blank"></a>
 <a href="https://www.instagram.com/luanasantolaja" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="__blank"></a>
-  
   </div>
