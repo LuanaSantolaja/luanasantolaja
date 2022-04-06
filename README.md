@@ -4,7 +4,7 @@ Olá! Eu sou a Luana Santolaja 👋🏻
 - 🙋🏻‍♀️ 23 anos
 - 🗨️ Espanhol Intermediário, Inglês Básico
 - 👩🏻‍💻 Pacote Office Intermediário
-- ⚡ Front-end; Programação Web
+- ⚡ Focada & Aplicada
 
 ##
 
