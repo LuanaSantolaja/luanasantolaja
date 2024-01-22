@@ -3,7 +3,7 @@ Olá! Eu sou a Luana Santolaja 👋🏻
 - 📚 Estudando atualmente: ISO27001 & Microsoft Azure
 - 🙋🏻‍♀️ 25 anos
 - 🗨️ Espanhol Intermediário, Inglês Básico
-- 👩🏻‍💻 Trabalhando na área de Segurança na Infraestrtura de TI
+- 👩🏻‍💻 Trabalhando na área de Segurança na Infraestrutura de TI
 - ⚡ Focada & Aplicada
 
 ##
