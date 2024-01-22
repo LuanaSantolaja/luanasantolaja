@@ -1,9 +1,9 @@
 Olá! Eu sou a Luana Santolaja 👋🏻
-- 📚 Estudante de Tecnologia na Faculdade de Tecnologia de Mauá (FATEC)
-- 🎓 Classificação: Gestão em Tecnologia da Informação /TI
-- 🙋🏻‍♀️ 23 anos
+- 🎓 Formada na Faculdade de Tecnologia de Mauá (FATEC)
+- 📚 Estudando atualmente: ISO27001 & Microsoft Azure
+- 🙋🏻‍♀️ 25 anos
 - 🗨️ Espanhol Intermediário, Inglês Básico
-- 👩🏻‍💻 Pacote Office Intermediário
+- 👩🏻‍💻 Trabalhando na área de Segurança na Infraestrtura de TI
 - ⚡ Focada & Aplicada
 
 ##
