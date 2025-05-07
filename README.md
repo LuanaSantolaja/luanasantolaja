@@ -19,7 +19,7 @@ Olá! Eu sou a Luana Santolaja 👋🏻
 <div style="display: inline_block"><br>
 <img align="center" alt="Lu-HTML" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
 <img align="center" alt="Lu-CSS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
-<img align="center" alt="Lu-Python" height="30" width="40" src="!github.com/user-attachments/assets/bcbc0a30-af6c-4c4a-bd5b-4b46aff4749d">
+<img align="center" alt="Lu-Python" height="30" width="40" src="[!github.com/user-attachments/assets/bcbc0a30-af6c-4c4a-bd5b-4b46aff4749d](https://github-production-user-asset-6210df.s3.amazonaws.com/72473827/441275634-bcbc0a30-af6c-4c4a-bd5b-4b46aff4749d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T135958Z&X-Amz-Expires=300&X-Amz-Signature=99f63d9b7c41524589e067b2d4e55a050184508ec167267f94e96989f69a4caa&X-Amz-SignedHeaders=host)">
 </div>
 
 ##
