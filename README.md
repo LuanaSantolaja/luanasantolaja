@@ -19,6 +19,8 @@ Olá! Eu sou a Luana Santolaja 👋🏻
 <div style="display: inline_block"><br>
 <img align="center" alt="Lu-HTML" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
 <img align="center" alt="Lu-CSS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
+<img align="center" alt="Lu-Python" height="30" width="40" src="![image](https://github.com/user-attachments/assets/c2e142d8-dd17-4af6-b28b-027654a304c2)
+">
 </div>
 
 ##
