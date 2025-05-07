@@ -12,10 +12,6 @@ Olá! Eu sou a Luana Santolaja 👋🏻
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanasantolaja&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanasantolaja&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-
-<div style="display: inline_block"><br>
-<img align="right" alt="Lu-pic" height="150" style="border-radius:50px;"src="https://share-cdn.picrew.me/shareImg/org/202204/338224_2MPRrfMc.png">
-</div>
                                                                                 
 ##
 
