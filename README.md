@@ -19,7 +19,8 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Lu-HTML" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
 <img align="center" alt="Lu-CSS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
-<img align="center" alt="Lu-Python" height="30" width="40" src="<https://github.com/user-attachments/assets/123a8562-9453-4c4b-95fd-7796af4347e2"/>
+<img align="center" alt="Lu-Python" height="30" width="40" src="https://github.com/user-attachments/assets/1d257044-937f-4229-aeb1-d1a268d32cbb">
+"/>
 ">
 </div>
 
