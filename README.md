@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/31b482c2-620d-41f1-99cf-d42958d39dc2" />Olá! Eu sou a Luana Santolaja 👋🏻
+Olá! Eu sou a Luana Santolaja 👋🏻
 - 🎓 Formada na Faculdade de Tecnologia de Mauá (FATEC)
 - 📚 Conhecimentos ISO27001 & Microsoft Azure
 - 🙋🏻‍♀️ 26 anos
