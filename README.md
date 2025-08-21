@@ -1,9 +1,8 @@
 Olá! Eu sou a Luana Santolaja 👋🏻
 - 🎓 Formada na Faculdade de Tecnologia de Mauá (FATEC)
 - 📚 Conhecimentos ISO27001 & Microsoft Azure
-- 🙋🏻‍♀️ 26 anos
+- 👩🏻‍💻 26 anos
 - 🗨️ Espanhol Intermediário, Inglês Básico
-- 👩🏻‍💻 Analista de TI e Segurança da Informação
 - ⚡ Dominando o escudo da rede: firewall
 - 🐍 Estudando automação, análise de dados e desenvolvimento com Python 
 
