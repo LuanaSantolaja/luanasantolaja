@@ -4,7 +4,8 @@ Olá! Eu sou a Luana Santolaja 👋🏻
 - 🙋🏻‍♀️ 26 anos
 - 🗨️ Espanhol Intermediário, Inglês Básico
 - 👩🏻‍💻 Analista de TI e Segurança da Informação
-- ⚡ Focada & Aplicada
+- ⚡ Dominando o escudo da rede: firewall
+- 🐍 Estudando automação, análise de dados e desenvolvimento com Python 
 
 ##
 
